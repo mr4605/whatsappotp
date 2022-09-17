@@ -1,17 +1,14 @@
-# WhatsApp-Verification-Hack
-MOSHI MOSHI🙌, KALI INI GW MAU BERBAGI 
-*Tools untuk bypass Verifikasi WhatsApp* 
+                *Bypass OTP WhatsApp* 
 
-###INSTALASI TERMUX######
+                 ##### CARANE ######
 
 $ apt update
 $ apt upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/nakocoders/WhatsApp-Verification-Hack/
+$ git clone https://github.com/mr4605/whatsappotp/
 $ ls
-$ cd WhatsApp-Verification-Hack
+$ cd whatsappotp
 $ ls
-$ sh Nako-Hack.sh
+$ sh otpwa.sh
 
-####This is For Education Only!####
