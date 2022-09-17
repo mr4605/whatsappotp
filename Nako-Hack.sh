@@ -11,36 +11,36 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 3
 clear
-figlet "Nako_Coders"|lolcat
+figlet "MRONGOS"|lolcat
 echo ""
-echo $cyan "Decode by NakoCoders"
-echo $cyan "WA : +81968535845"
-echo $cyan "FB : NakoTan"
+echo $cyan "Mod by 49035"
+echo $cyan "WA : +6285xxxxx"
+echo $cyan "FB : UsherAcound"
 echo $cyan "Notif : Nothing Give Up "
-echo $yellow "Hanya Bisa Digunakan 5x Per IP selain itu ga Work Ajg"
+echo $yellow "Mung iso di kanggoke x5 nggon IP sing podo"
 sleep 5
-echo $white "Waiting ........."
+echo $white "SABAR MBAHH ........."
 sleep 10
-echo $cyan " Masukkan Nama Target :"
+echo $cyan " TULISEN JENENG TARGET :"
 read kartu
-echo $cyan " Masukkan Nomor Target :"
+echo $cyan " TULISEN NOMER TARGET :"
 read anda
 echo "\033[0;32m]List Socks : "
 read socks
-echo $red "Loading ....."
+echo $red "LAGI MIKIR ....."
 sleep 5
-echo $red "Waiting......."
+echo $red "SABAR MBAHH......."
 sleep 5
-echo $red "Sedang Tanem Backdoor ke $kartu"
-echo $red "system Sukses Tanem Backdoor 192.168.85.685:9685......"
+echo $red "LAGI JEBOL LAWANG $kertu"
+echo $red "system Sukses JEBOL LAWANG 192.168.85.685:9685......"
 sleep 5
-echo $red "Sedang Mengirim Akses Backdoor ke $anda"
+echo $red "Lagi Ngirim OTP Neng $Awakmu"
 sleep 3
-echo $red "Transfer Database ......"
+echo $red "NGIRIM DATA ......"
 sleep 5
 echo $red "Socks $pulsa Reading List......"
 sleep 5
-echo "Loading...."
+echo "Mbukak...."
 sleep 3
 echo "1%"
 sleep 3
@@ -55,10 +55,10 @@ echo "90%"
 sleep 3
 echo "100%"
 sleep 5
-echo "Waiting........."
+echo "SABAR MBAHH........."
 sleep 1
-echo "Sukses Nigga......"
+echo "Sukses Mbahh......"
 sleep 1
-echo "Sukses Akses Backdoor,  Mengirim Ke : $anda"
-echo "Kode Verifikasi Wa nya : 685 584"
-echo "Terima Kasih ^_^"
+echo "Sukses Njebol Lawang,  Di Kirim Nek : $Awakmu"
+echo "Kode OTP Wa : 490 355"
+echo "SUWUN 🙏🙏🙏"
