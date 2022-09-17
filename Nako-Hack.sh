@@ -1,6 +1,4 @@
 #!/bin/bash
-#Lumayan Buat Pamer KeKwan Lu😂
-#Tools Ini Cuman Buat Iseng² doang
  
 blue='\033[34;1m'
 green='\033[32;1m'
